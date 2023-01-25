@@ -8,6 +8,7 @@
 import SwiftUI
 
 extension Color {
+  //MARK: - Gray
   public static let gray0 = Color(hex: "#f8f9fa")
   public static let gray1 = Color(hex: "#f1f3f5")
   public static let gray2 = Color(hex: "#e9ecef")
@@ -19,6 +20,7 @@ extension Color {
   public static let gray8 = Color(hex: "#343a40")
   public static let gray9 = Color(hex: "#212529")
   
+  //MARK: - Red
   public static let red0 = Color(hex: "#fff5f5")
   public static let red1 = Color(hex: "#ffe3e3")
   public static let red2 = Color(hex: "#ffc9c9")
@@ -30,6 +32,7 @@ extension Color {
   public static let red8 = Color(hex: "#e03131")
   public static let red9 = Color(hex: "#c92a2a")
   
+  //MARK: - Pink
   public static let pink0 = Color(hex: "#fff0f6")
   public static let pink1 = Color(hex: "#ffdeeb")
   public static let pink2 = Color(hex: "#fcc2d7")
@@ -41,6 +44,7 @@ extension Color {
   public static let pink8 = Color(hex: "#c2255c")
   public static let pink9 = Color(hex: "#a61e4d")
   
+  //MARK: - Grape
   public static let grape0 = Color(hex: "#f8f0fc")
   public static let grape1 = Color(hex: "#f3d9fa")
   public static let grape2 = Color(hex: "#eebefa")
@@ -52,6 +56,7 @@ extension Color {
   public static let grape8 = Color(hex: "#9c36b5")
   public static let grape9 = Color(hex: "#862e9c")
   
+  //MARK: - Violet
   public static let violet0 = Color(hex: "#f3f0ff")
   public static let violet1 = Color(hex: "#e5dbff")
   public static let violet2 = Color(hex: "#d0bfff")
@@ -63,6 +68,7 @@ extension Color {
   public static let violet8 = Color(hex: "#6741d9")
   public static let violet9 = Color(hex: "#5f3dc4")
   
+  //MARK: - Indigo
   public static let indigo0 = Color(hex: "#edf2ff")
   public static let indigo1 = Color(hex: "#dbe4ff")
   public static let indigo2 = Color(hex: "#bac8ff")
@@ -74,6 +80,7 @@ extension Color {
   public static let indigo8 = Color(hex: "#3b5bdb")
   public static let indigo9 = Color(hex: "#364fc7")
   
+  //MARK: - Blue
   public static let blue0 = Color(hex: "#e7f5ff")
   public static let blue1 = Color(hex: "#d0ebff")
   public static let blue2 = Color(hex: "#a5d8ff")
@@ -85,6 +92,7 @@ extension Color {
   public static let blue8 = Color(hex: "#1971c2")
   public static let blue9 = Color(hex: "#1864ab")
 
+  //MARK: - Cyan
   public static let cyan0 = Color(hex: "#e3fafc")
   public static let cyan1 = Color(hex: "#c5f6fa")
   public static let cyan2 = Color(hex: "#99e9f2")
@@ -96,6 +104,7 @@ extension Color {
   public static let cyan8 = Color(hex: "#0c8599")
   public static let cyan9 = Color(hex: "#0b7285")
   
+  //MARK: - Teal
   public static let teal0 = Color(hex: "#e6fcf5")
   public static let teal1 = Color(hex: "#c3fae8")
   public static let teal2 = Color(hex: "#96f2d7")
@@ -107,6 +116,7 @@ extension Color {
   public static let teal8 = Color(hex: "#099268")
   public static let teal9 = Color(hex: "#087f5b")
   
+  //MARK: - Green
   public static let green0 = Color(hex: "#ebfbee")
   public static let green1 = Color(hex: "#d3f9d8")
   public static let green2 = Color(hex: "#b2f2bb")
@@ -118,6 +128,7 @@ extension Color {
   public static let green8 = Color(hex: "#2f9e44")
   public static let green9 = Color(hex: "#2b8a3e")
   
+  //MARK: - Lime
   public static let lime0 = Color(hex: "#f4fce3")
   public static let lime1 = Color(hex: "#e9fac8")
   public static let lime2 = Color(hex: "#d8f5a2")
@@ -129,6 +140,7 @@ extension Color {
   public static let lime8 = Color(hex: "#66a80f")
   public static let lime9 = Color(hex: "#5c940d")
 
+  //MARK: - Yellow
   public static let yellow0 = Color(hex: "#fff9db")
   public static let yellow1 = Color(hex: "#fff3bf")
   public static let yellow2 = Color(hex: "#ffec99")
@@ -140,6 +152,7 @@ extension Color {
   public static let yellow8 = Color(hex: "#f08c00")
   public static let yellow9 = Color(hex: "#e67700")
 
+  //MARK: - Orange
   public static let orange0 = Color(hex: "#fff4e6")
   public static let orange1 = Color(hex: "#ffe8cc")
   public static let orange2 = Color(hex: "#ffd8a8")
